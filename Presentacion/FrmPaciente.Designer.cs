@@ -189,7 +189,7 @@ namespace Presentacion
             // 
             // btnMayorTiempo
             // 
-            this.btnMayorTiempo.Location = new System.Drawing.Point(578, 29);
+            this.btnMayorTiempo.Location = new System.Drawing.Point(305, 100);
             this.btnMayorTiempo.Name = "btnMayorTiempo";
             this.btnMayorTiempo.Size = new System.Drawing.Size(186, 58);
             this.btnMayorTiempo.TabIndex = 15;
@@ -199,7 +199,7 @@ namespace Presentacion
             // 
             // btnCantV
             // 
-            this.btnCantV.Location = new System.Drawing.Point(578, 103);
+            this.btnCantV.Location = new System.Drawing.Point(544, 179);
             this.btnCantV.Name = "btnCantV";
             this.btnCantV.Size = new System.Drawing.Size(186, 58);
             this.btnCantV.TabIndex = 16;
@@ -209,7 +209,7 @@ namespace Presentacion
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(578, 179);
+            this.button1.Location = new System.Drawing.Point(444, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(186, 58);
             this.button1.TabIndex = 17;

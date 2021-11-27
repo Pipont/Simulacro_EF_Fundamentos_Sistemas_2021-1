@@ -14,6 +14,5 @@ C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.FrmPacien
 C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
 C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
 C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
-C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Pipo\source\repos\TF_2021\Presentacion\obj\Debug\Presentacion.pdb
